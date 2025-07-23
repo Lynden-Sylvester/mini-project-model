@@ -1,0 +1,17 @@
+name: Examples Bot
+version: 0.0.1-beta
+author: ALyndenSylvester
+description: Discord bot description
+
+guild:
+  # Your Guild's Guild ID
+  guild_id: ""
+
+  # Your Guild's Name
+  guild_name: ""
+
+  # Your Guild's Profile Key (You set this when you ran /guild_init)
+  guild_key: ""
+
+  # Your Guild's Job ID (Created during /guild_init)
+  guild_job_id: ""
