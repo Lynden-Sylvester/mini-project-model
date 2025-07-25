@@ -1,7 +1,6 @@
 import threading
 import discord_bot
 from pytz import utc
-import asyncio
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from apscheduler.jobstores.sqlalchemy import SQLAlchemyJobStore
 from apscheduler.executors.pool import ThreadPoolExecutor
